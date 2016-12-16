@@ -1,0 +1,31 @@
+for____in  []
+     print
+else
+for 执行 else也执行
+ range（）  取数
+for  i   in  range()
+    print
+for 可以同时满足多个变量的负值
+控制语句的总结
+ 顺序执行， 选择分支，循环
+ 分支语句  if  elif  else
+        简单的if语句
+        if.....else
+        if.....elif....else
+        if的嵌套
+ 循环     while....else
+            死循环
+            循环结束条件
+            与break  contiune 配合
+          for.....else
+            多种形式的集合类型
+            Range
+            多个变量接受
+            [x for in range(100)]
+ Break 结束循环
+  continue   跳出本次循环
+  pass   空站位符
+
+zip 函数  生成一个序列
+[x+y for x,y in zip(t,t2)]
+map 函数
